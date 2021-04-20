@@ -1,0 +1,11 @@
+record = []
+first_num = int(input("Enter first integer: "))
+record.append(first_num)
+second_num = int(input("Enter second integer: "))
+record.append(second_num)
+third_num = int(input("Enter third integer: "))
+record.append(third_num)
+highest_num = max(record)
+lowest_num = min(record)
+print("Largest of three: ",highest_num)
+print("Lowest of three: ",lowest_num)

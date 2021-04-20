@@ -1,0 +1,26 @@
+number = int(input("Enter any number to show the multiplication table: "))
+multiply1 = number*1
+multiply2 = number*2
+multiply3 = number*3
+multiply4 = number*4
+multiply5 = number*5
+multiply6 = number*6
+multiply7 = number*7
+multiply8 = number*8
+multiply9 = number*9
+multiply10 = number*10
+multiply11 = number*11
+multiply12 = number*12
+
+print(number ,"X", "1", "=", multiply1)
+print(number ,"X", "2", "=", multiply2)
+print(number ,"X", "3", "=", multiply3)
+print(number ,"X", "4", "=", multiply4)
+print(number ,"X", "5", "=", multiply5)
+print(number ,"X", "6", "=", multiply6)
+print(number ,"X", "7", "=", multiply7)
+print(number ,"X", "8", "=", multiply8)
+print(number ,"X", "9", "=", multiply9)
+print(number ,"X", "10", "=", multiply10)
+print(number ,"X", "11", "=", multiply11)
+print(number ,"X", "12", "=", multiply12)
